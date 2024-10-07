@@ -1,2 +1,1 @@
-# Henrycurse
-Este es un repositorio de prueba
+prueba de como crear un repositorio y clonarlo desde github y mi cumputadora
